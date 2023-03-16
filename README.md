@@ -12,4 +12,4 @@
 
 <br />
 
-hi, i'm Jason Le, a computer scientist from Dallas, Texas and an undergraduate student @ Texas A&M, College Station. My passion is full stack web development, so that I can make my ideas and solutions come to life. I take a lot of proud in the software development process and in the things I products.
+hi, i'm Jason Le, a computer scientist from Dallas, Texas and an undergraduate student @ Texas A&M, College Station. My passion is full stack web development, so that I can make my ideas and solutions come to life. I take a lot of pride in software development and programming and in the things I products.
