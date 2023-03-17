@@ -11,4 +11,4 @@
 <br/>
 <br/>
 
-hi, i'm Jason Le, a computer scientist from Dallas, Texas and an undergraduate student @ Texas A&M, College Station. My hobby is front end web development where I create and design my solutions. I enjoy and take a lot of pride in software development and programming. 
+hi, i'm Jason Le, a computer scientist from Dallas, Texas and an undergraduate student @ Texas A&M, College Station. My hobby is front end web development where I create and design solutions. I enjoy and take a lot of pride in software development and programming. 
