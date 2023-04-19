@@ -11,4 +11,4 @@
 <br/>
 <br/>
 
-hi, i'm Jason Le, a computer scientist from Dallas, Texas and an undergraduate student @ Texas A&M, College Station. I'm a full stack web development for fun. I enjoy and take a lot of pride in software development and programming. 
+hi, i'm Jason Le, a computer scientist from Dallas, Texas and an undergraduate student @ Texas A&M, College Station. I'm a front web development for fun. I enjoy and take a lot of pride in software development and programming. 
